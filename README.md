@@ -56,3 +56,12 @@ The tools we have used are,
  - Canva
  
  The data is preprocessed, analyzed, and visualized using these tools and technologies.
+
+## How to Use
+1. Clone the repository or download the project files.
+2. Load the Pokémon dataset into your preferred data visualization tool (e.g., Power BI, Tableau, Flourish).
+3. Explore the visualizations to gain insights into Pokémon attributes and performance.
+4. Customize the visualizations as per your requirements to analyze specific aspects of the data.
+
+## Acknowledgments
+We would like to express our gratitude to Kaggle and the original dataset creator, Rohan Patil, for providing the Pokémon dataset. And also to the AngelHack team for inspiring us to take on this challange.
