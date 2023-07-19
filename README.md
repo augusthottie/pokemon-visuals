@@ -64,4 +64,4 @@ The tools we have used are,
 4. Customize the visualizations as per your requirements to analyze specific aspects of the data.
 
 ## Acknowledgments
-We would like to express our gratitude to Kaggle and the original dataset creator, Rohan Patil, for providing the Pokémon dataset. And also to the AngelHack team for inspiring us to take on this amazing challange.
+We would like to express our gratitude to AngelHack team for inspiring us to take on this amazing challange. And also to Kaggle and the original dataset creator, Rohan Patil, for providing the Pokémon dataset.
