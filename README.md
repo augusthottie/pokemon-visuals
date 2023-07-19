@@ -47,7 +47,7 @@ The project is implemented using Python and various libraries such as,
 
  - pandas 
  - matplotlib
- - Plotty
+ - Plotly
  - Seaborn
  
 The tools we have used are,
