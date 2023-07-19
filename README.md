@@ -9,16 +9,16 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 
 ## Data Story: The Battle of Elite Pokémons
 ### Extracting the Top 20 Pokémon
-For our data story, we began by extracting the top 20 Pokémon from the dataset based on their Composite Strength measure. The Composite Strength measure was calculated using a weighted combination of Attack, Defense, Special Attack, Special Defense, and Speed attributes. These top 20 Pokémon were chosen as the elite group to compete in our simulated Pokémon battles.
+For our data story, we began by extracting the top 20 Pokémon from the dataset based on their Composite Strength measure which we calculated. The Composite Strength measure was calculated using a weighted combination of Attack, Defense, Special Attack, Special Defense, and Speed attributes. These top 20 Pokémons were chosen as the elite group to compete in our simulated Pokémon battles.
 
 ## Round 1: Groups A-C
-The elite Pokémon were divided into three groups: A, B, and C, to compete in Round 1 of the battles. Each group showcased their strengths and weaknesses in intense one-on-one battles. The visualizations helped us analyze the performance of each Pokémon and understand how different attributes impacted the outcomes.
+The elite Pokémons were divided into three groups: A, B, and C, to compete in Round 1 of the battles. Each group showcased their strengths and weaknesses in intense one-on-one battles. The visualizations helped us analyze the performance of each Pokémon and understand how different attributes impacted the outcomes.
 
 ## Round 2: Semi-Final
-The winners from Round 1 advanced to Round 2, where they faced off in a semi-final battle. The stakes were higher, and the competition fiercer as the Pokémon strived to secure their position in the final round.
+The winners from Round 1 advanced to Round 2, where they faced off in a semi-final battle. The stakes were higher, and the competition fiercer as the Pokémons strived to secure their position in the final round.
 
 ## The Final Round
-In the final round, the remaining Pokémon battled head-to-head to determine the ultimate champion. The visualizations allowed us to witness the intensity of the battles and gain valuable insights into the strategies used by each Pokémon to emerge as the top contender.
+In the final round, the remaining Pokémons battled head-to-head to determine the ultimate champion. The visualizations allowed us to witness the intensity of the battles and gain valuable insights into the strategies used by each Pokémon to emerge as the top contender.
 
 ## The Victorious Pokémon: Koraidon
 After an intense battle in the final round, Koraidon emerged as the champion, showcasing its exceptional abilities and strength. With a well-balanced combination of Attack, Defense, and Speed, Koraidon proved to be the most powerful and skilled Pokémon in the elite group.
@@ -64,4 +64,4 @@ The tools we have used are,
 4. Customize the visualizations as per your requirements to analyze specific aspects of the data.
 
 ## Acknowledgments
-We would like to express our gratitude to Kaggle and the original dataset creator, Rohan Patil, for providing the Pokémon dataset. And also to the AngelHack team for inspiring us to take on this challange.
+We would like to express our gratitude to Kaggle and the original dataset creator, Rohan Patil, for providing the Pokémon dataset. And also to the AngelHack team for inspiring us to take on this amazing challange.
