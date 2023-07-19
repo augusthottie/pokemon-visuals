@@ -23,6 +23,11 @@ In the final round, the remaining Pokémon battled head-to-head to determine the
 ## The Victorious Pokémon: Koraidon
 After an intense battle in the final round, Koraidon emerged as the champion, showcasing its exceptional abilities and strength. With a well-balanced combination of Attack, Defense, and Speed, Koraidon proved to be the most powerful and skilled Pokémon in the elite group.
 
+## View story files here
+-  [Story notebook](https://colab.research.google.com/drive/1lMN3Nc2oIrUX2m_gumOTtxQl-DZBjZnu?usp=sharing#scrollTo=38kqWokuu3CL)
+-  [Power Bi file](https://app.powerbi.com/view?r=eyJrIjoiMmYyMjdmNTAtYjFjNi00MjJiLTkwNzAtY2U0NWM5ODI2YzM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
+-  [Canva file]()
+
 ## Thought Process: Uncovering the Pokémon Universe
 - ### Exploring the Pokémon Dataset
 Our journey began by delving into the Pokémon dataset, which provided a treasure trove of information about these captivating creatures. We examined the different attributes available and brainstormed ways to extract valuable insights from the data. This involved understanding the significance of attributes such as HP, Attack, Defense, and more in battles and competitions.
@@ -35,3 +40,19 @@ To make sense of the dataset and uncover hidden patterns, we employed the power 
 
 - ### Crafting Engaging Data Stories
 While visualizations provided valuable insights, we realized the importance of storytelling to convey our findings effectively. We curated data stories that revolved around battles of elite Pokémon, highlighting their performance, strategies, and the ultimate champion. By presenting the data in a narrative format, we aimed to captivate audiences and engage them in the fascinating world of Pokémon.
+
+## Tools and Technologies
+
+The project is implemented using Python and various libraries such as,
+
+ - pandas 
+ - matplotlib
+ - Plotty
+ - Seaborn
+ 
+The tools we have used are,
+
+ - PowerBI
+ - Canva
+ 
+ The data is preprocessed, analyzed, and visualized using these tools and technologies.
