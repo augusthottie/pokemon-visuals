@@ -23,10 +23,14 @@ In the final round, the remaining Pokémons battled head-to-head to determine th
 ## The Victorious Pokémon: Koraidon
 After an intense battle in the final round, Koraidon emerged as the champion, showcasing its exceptional abilities and strength. With a well-balanced combination of Attack, Defense, and Speed, Koraidon proved to be the most powerful and skilled Pokémon in the elite group.
 
+## Pokebook - A Window into the Extraordinary World of Pokémon!
+Pokebook is your ultimate companion and guide to the mesmerizing world of Pokémon. This captivating book offers a treasure trove of information, insights, and captivating tales that will transport you into the enchanting realm of Pokémon. Pokebook is a doorway to an awe-inspiring journey of imagination and wonder.
+
 ## View story files here
 -  [Story notebook](https://colab.research.google.com/drive/1lMN3Nc2oIrUX2m_gumOTtxQl-DZBjZnu?usp=sharing#scrollTo=38kqWokuu3CL)
 -  [Power Bi file](https://app.powerbi.com/view?r=eyJrIjoiMmYyMjdmNTAtYjFjNi00MjJiLTkwNzAtY2U0NWM5ODI2YzM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
 -  [Canva file]()
+-  [Pokebook](https://colab.research.google.com/drive/1i31uPuFDH8HAjyJLOOt2ofcSoNUE8eW-#scrollTo=1220772f)
 
 ## Thought Process: Uncovering the Pokémon Universe
 - ### Exploring the Pokémon Dataset
