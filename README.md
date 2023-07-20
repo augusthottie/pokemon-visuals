@@ -34,9 +34,7 @@ Pokebook is your ultimate companion and guide to the mesmerizing world of Pokém
 
 ## Screen Recording
 
-
-https://github.com/AugustHottie/pokemon-visuals/assets/106215707/faa86597-d8f0-48e9-9b6a-7fc52b1ee5bb
-
+https://github.com/AugustHottie/pokemon-visuals/assets/106215707/cf1f9909-8e56-4176-83a4-3060f5046c6f
 
 
 ## Thought Process: Uncovering the Pokémon Universe
