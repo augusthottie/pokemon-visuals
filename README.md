@@ -29,7 +29,7 @@ Pokebook is your ultimate companion and guide to the mesmerizing world of Pokém
 ## View story files here
 -  [Story notebook](https://colab.research.google.com/drive/1lMN3Nc2oIrUX2m_gumOTtxQl-DZBjZnu?usp=sharing#scrollTo=38kqWokuu3CL)
 -  [Power Bi file](https://app.powerbi.com/view?r=eyJrIjoiMmYyMjdmNTAtYjFjNi00MjJiLTkwNzAtY2U0NWM5ODI2YzM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
--  [Canva file]()
+-  [Canva file](https://www.canva.com/design/DAFo6G0KcYE/lQQUUw9yYt2El_wP8XeFbA/view)
 -  [Pokebook](https://colab.research.google.com/drive/1i31uPuFDH8HAjyJLOOt2ofcSoNUE8eW-#scrollTo=1220772f)
 
 ## Thought Process: Uncovering the Pokémon Universe
