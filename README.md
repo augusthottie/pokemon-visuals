@@ -32,6 +32,13 @@ Pokebook is your ultimate companion and guide to the mesmerizing world of Pokém
 -  [Canva file](https://www.canva.com/design/DAFo6G0KcYE/lQQUUw9yYt2El_wP8XeFbA/view)
 -  [Pokebook](https://colab.research.google.com/drive/1i31uPuFDH8HAjyJLOOt2ofcSoNUE8eW-#scrollTo=1220772f)
 
+## Screen Recording
+
+
+https://github.com/AugustHottie/pokemon-visuals/assets/106215707/faa86597-d8f0-48e9-9b6a-7fc52b1ee5bb
+
+
+
 ## Thought Process: Uncovering the Pokémon Universe
 - ### Exploring the Pokémon Dataset
 Our journey began by delving into the Pokémon dataset, which provided a treasure trove of information about these captivating creatures. We examined the different attributes available and brainstormed ways to extract valuable insights from the data. This involved understanding the significance of attributes such as HP, Attack, Defense, and more in battles and competitions.
