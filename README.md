@@ -36,6 +36,8 @@ Pokebook is your ultimate companion and guide to the mesmerizing world of Pokém
 
 https://github.com/AugustHottie/pokemon-visuals/assets/106215707/cf1f9909-8e56-4176-83a4-3060f5046c6f
 
+https://github.com/AugustHottie/pokemon-visuals/assets/106215707/33f25566-9d68-4544-bb35-df1d9593b132
+
 
 ## Thought Process: Uncovering the Pokémon Universe
 - ### Exploring the Pokémon Dataset
